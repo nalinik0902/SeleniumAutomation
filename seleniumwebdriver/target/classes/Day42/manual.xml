@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+<Test name="Test">
+<Classes name="Day42.FirstTestCase">
+</Classes>
+</Test>
+</suite>

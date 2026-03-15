@@ -1,0 +1,53 @@
+06:25:38.621 [main] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+06:25:39.182 [main] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+06:25:39.182 [main] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+06:28:51.173 [main] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+06:28:51.698 [main] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+06:28:51.698 [main] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+06:28:52.358 [main] ERROR testcases.TC001_AccountRegistrationTest - Test failed
+06:29:52.795 [main] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+06:29:53.295 [main] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+06:29:53.295 [main] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+06:29:54.912 [main] DEBUG testcases.TC001_AccountRegistrationTest - Debug logs
+06:29:54.912 [main] ERROR testcases.TC001_AccountRegistrationTest - Test failed
+07:26:16.200 [main] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+07:26:16.620 [main] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+07:26:16.620 [main] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+07:26:18.513 [main] DEBUG testcases.TC001_AccountRegistrationTest - Debug logs
+07:26:18.513 [main] ERROR testcases.TC001_AccountRegistrationTest - Test failed
+07:26:45.240 [main] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+07:26:45.742 [main] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+07:26:45.742 [main] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+07:26:47.150 [main] DEBUG testcases.TC001_AccountRegistrationTest - Debug logs
+07:26:47.150 [main] ERROR testcases.TC001_AccountRegistrationTest - Test failed
+10:25:31.169 [main] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+10:25:31.558 [main] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+10:25:31.558 [main] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+10:25:32.904 [main] DEBUG testcases.TC001_AccountRegistrationTest - Debug logs
+10:25:32.904 [main] ERROR testcases.TC001_AccountRegistrationTest - Test failed
+10:26:00.013 [main] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+10:26:00.357 [main] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+10:26:00.357 [main] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+10:26:01.788 [main] DEBUG testcases.TC001_AccountRegistrationTest - Debug logs
+10:26:01.788 [main] ERROR testcases.TC001_AccountRegistrationTest - Test failed
+10:26:19.993 [main] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+10:26:20.362 [main] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+10:26:20.362 [main] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+10:26:21.748 [main] DEBUG testcases.TC001_AccountRegistrationTest - Debug logs
+10:26:21.748 [main] ERROR testcases.TC001_AccountRegistrationTest - Test failed
+10:56:21.400 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+10:56:21.734 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+10:56:21.853 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+10:56:21.854 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+10:56:22.133 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+10:56:22.135 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+10:56:23.605 [TestNG-tests-2] DEBUG testcases.TC001_AccountRegistrationTest - Debug logs
+10:56:23.605 [TestNG-tests-2] ERROR testcases.TC001_AccountRegistrationTest - Test failed
+10:56:23.853 [TestNG-tests-1] DEBUG testcases.TC001_AccountRegistrationTest - Debug logs
+10:56:23.853 [TestNG-tests-1] ERROR testcases.TC001_AccountRegistrationTest - Test failed
+23:09:02.452 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+23:09:02.528 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Testcase of Account Registration Started
+23:09:02.946 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+23:09:02.946 [TestNG-tests-2] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
+23:09:02.986 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Home page completed
+23:09:02.987 [TestNG-tests-1] INFO  testcases.TC001_AccountRegistrationTest - Account Registration Started
