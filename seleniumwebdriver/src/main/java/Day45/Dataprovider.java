@@ -15,7 +15,9 @@ public class Dataprovider {
 
 	// What is the return type of data provider method in selenium
 	
-	//   - Data provider method always returns Two Dimensional Array
+	//Data provider is used to run the test multiple times with different data.
+	
+	//   - Data provider method always returns Two Dimensional Array.
 	
 	// Dataprovider advantage - without using any looping statements , we can repeat the test methods. 
 	// Through dataprovider , we achieve data driven testing

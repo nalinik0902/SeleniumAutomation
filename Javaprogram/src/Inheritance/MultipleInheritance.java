@@ -5,7 +5,7 @@ Multiple Inheritance - multiple parent can have single child.
 Multiple Inheritace cannot implement using class concept like single, multi level and hierarchy. we can implement using interface concept. 
 	
 why class concept is not supported for multiple inheritance?
-		Ans- because extends keyword is supported only one class at a time when you extending multiple class into child class
+		Ans- because extends keyword is supported only one class at a time when you extending multiple parent class into child class
 	  
 */
 

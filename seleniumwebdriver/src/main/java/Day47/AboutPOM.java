@@ -17,7 +17,7 @@ public class AboutPOM {
 	     
 	     In every page object class , it contains Constructors, locators and action methods
 	     
-	     Why Constructor Is Used in LoginPage?
+	     Why Constructor Is Used in LoginPageclass?
 
         In POM, we pass the WebDriver from Test class to Page class.
 

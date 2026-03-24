@@ -3,10 +3,13 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   <parameter name="os" value="windows"></parameter>
-  <parameter name="browser" value="edge"></parameter>
+  <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="testbase.BaseClass"/>
-      <class name="testcases.TC001_AccountRegistrationTest"/>
+    <class name="testbase.BaseClass"/>
+     <class name="testcases.TC003_LoginDataDrivenTest"/>
+  
+      
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
